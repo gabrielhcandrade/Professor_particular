@@ -32,7 +32,7 @@ genai.configure(api_key=GOOGLE_API_KEY)`
 `generation_config = {
     "candidate_count":1,
     "temperature": 0.5
-}``
+}`
 
 - Escolha o modelo que deseja usar 
 
