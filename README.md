@@ -1,5 +1,5 @@
 # Cansado de estudar feito robô? 🤖
-## Apresentamos seu Chatbot Professor Particular Personalizado! 🎓
+## Apresento seu Chatbot Professor Particular Personalizado! 🎓
 
 Imagine ter um professor dedicado, que se adapta ao SEU ritmo e te ajuda a dominar qualquer matéria! 🤩
 
